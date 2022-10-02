@@ -1,0 +1,23 @@
+{
+  "name": "Mr. Flores",
+  "username": "floresjames",
+  "slug": "56ec9330-5998-483e-8212-226480cf0141",
+  "email": "floresjames@example.net",
+  "address": {
+    "street": "567 Steven Cliff",
+    "suite": "Figueroa Downway",
+    "city": "Lake Milway",
+    "zipcode": "1234",
+    "geo": {
+      "lat": "-30.5551815",
+      "lng": "108.140336"
+    }
+  },
+  "phone": "0123456789",
+  "website": "http://getonmyway.com/",
+  "company": {
+    "name": "Kirk, Test and Automatio",
+    "catchPhrase": "Getcha optimal product",
+    "bs": "unleash Dump action-items"
+  }
+}
