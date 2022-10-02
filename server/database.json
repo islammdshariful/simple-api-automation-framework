@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "name": "Abigail Wood",
+      "username": "sonyagibson",
+      "slug": "ef6c8eb1-a840-4163-82d2-559f43dfd593",
+      "email": "kwatson@example.net",
+      "address": {
+        "street": "2100 Perkins Union Apt. 923",
+        "suite": "Edward Radial",
+        "city": "Lake Kimmouth",
+        "zipcode": "04725",
+        "geo": {
+          "lat": "5.6908755",
+          "lng": "2.422773"
+        }
+      },
+      "phone": "821.915.8590",
+      "website": "http://cooper.info/",
+      "company": {
+        "name": "Schwartz, Walsh and Cross",
+        "catchPhrase": "Reverse-engineered tangible help-desk",
+        "bs": "whiteboard integrated ROI"
+      },
+      "id": 1
+    },
+    {
+      "name": "Melissa Johnson",
+      "username": "mwright",
+      "slug": "a8293b20-e697-42ce-b4ee-ae326a3f7af0",
+      "email": "millssherri@example.org",
+      "address": {
+        "street": "839 Steven Tunnel",
+        "suite": "Peck Crest",
+        "city": "Michelleshire",
+        "zipcode": "51373",
+        "geo": {
+          "lat": "-51.588118",
+          "lng": "-176.152922"
+        }
+      },
+      "phone": "+1-670-445-9081",
+      "website": "http://www.potter-bradley.net/",
+      "company": {
+        "name": "Hancock, Hatfield and Hampton",
+        "catchPhrase": "Customer-focused intermediate approach",
+        "bs": "incentivize dynamic partnerships"
+      },
+      "id": 2
+    },
+    {
+      "name": "Natasha Combs",
+      "username": "margaret25",
+      "slug": "0e744783-e1b5-44ab-affe-8737492c7465",
+      "email": "lindsey74@example.net",
+      "address": {
+        "street": "844 Jennifer Haven",
+        "suite": "Ebony Causeway",
+        "city": "West John",
+        "zipcode": "58828",
+        "geo": {
+          "lat": "-46.6728015",
+          "lng": "130.939085"
+        }
+      },
+      "phone": "(452)579-8995x1829",
+      "website": "https://holland.info/",
+      "company": {
+        "name": "Taylor-Howell",
+        "catchPhrase": "Adaptive value-added capability",
+        "bs": "strategize scalable initiatives"
+      },
+      "id": 3
+    },
+    {
+      "name": "Alexis Burke",
+      "username": "warderic",
+      "slug": "8c43718b-8cff-4cc5-a413-5af96e8f8fac",
+      "email": "pettykimberly@example.net",
+      "address": {
+        "street": "661 Ruben Gardens",
+        "suite": "Martin Throughway",
+        "city": "Moorebury",
+        "zipcode": "06836",
+        "geo": {
+          "lat": "18.7162865",
+          "lng": "20.765924"
+        }
+      },
+      "phone": "573-581-7781",
+      "website": "https://www.reynolds.com/",
+      "company": {
+        "name": "Callahan, Kidd and Martinez",
+        "catchPhrase": "Integrated even-keeled knowledgebase",
+        "bs": "architect dynamic markets"
+      },
+      "id": 4
+    },
+    {
+      "name": "Tracy Morales",
+      "username": "farmermichael",
+      "slug": "1cd7b938-d5e9-4ddf-83e0-05167c80c157",
+      "email": "westrobert@example.org",
+      "address": {
+        "street": "7173 Daniel Throughway",
+        "suite": "Andrew Inlet",
+        "city": "Kempville",
+        "zipcode": "97601",
+        "geo": {
+          "lat": "-49.2669095",
+          "lng": "122.947752"
+        }
+      },
+      "phone": "612.481.7444x062",
+      "website": "https://franklin-martin.com/",
+      "company": {
+        "name": "Rodriguez-Francis",
+        "catchPhrase": "Monitored discrete array",
+        "bs": "synergize bricks-and-clicks models"
+      },
+      "id": 5
+    }
+  ]
+}
